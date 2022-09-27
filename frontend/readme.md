@@ -4,6 +4,18 @@ The Anythink Frontend is an SPA written with [React](https://reactjs.org/) and [
 
 ## Getting started
 
+Setup your frontend and backend
+
+1.) Install docker, then verify that it is installed properly docker -v and docker-compose -v
+2.) Clone the following repo: https://github.com/ObelusFamily/Anythink-Market-1rkvd.git
+3.) Navigate to "Anythink-Market-1rkvd" directory
+4.) Run "docker-compose up" 
+5.) If docker is setup properly then you will be able to create a new user "http://localhost:3001/register"
+
+What if docker isn't working?
+1. Make sure that you have downloaded the latet version, or update the version you are using. 
+   Instructions on how to do both can be found here -> https://www.docker.com/
+
 Make sure your server is up and running to serve requests.
 
 ## Pages overview

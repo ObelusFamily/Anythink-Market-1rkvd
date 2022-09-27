@@ -14,7 +14,7 @@ Setup your frontend and backend
 
 What if docker isn't working?
 1. Make sure that you have downloaded the latet version, or update the version you are using. 
-   Instructions on how to do both can be found here -> https://www.docker.com/
+   Instructions on how to do both can be found here: https://www.docker.com/
 
 Make sure your server is up and running to serve requests.
 
